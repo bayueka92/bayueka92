@@ -7,13 +7,13 @@
 
 <img align="right" src="https://i.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.webp" width="400" alt="github-cover">
 
-- 🔭 I’m currently working on **Potato Day**
+- 🔭 I’m currently working on **Pule Day**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Anything :D**
 
-- 📫 How to reach me **dimasyusufqurohman@gmail.com**
+- 📫 How to reach me **bayueka2555@gmail.com**
 
 - ⚡ Fun fact **I like munching**
 
