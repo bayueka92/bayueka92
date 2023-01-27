@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dimmasyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="bayueka92" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=bayueka92&label=Profile%20views&color=0e75b6&style=flat" alt="bayueka92" /> </p>
 
 <img align="right" src="https://i.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.webp" width="400" alt="github-cover">
 
