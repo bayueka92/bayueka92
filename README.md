@@ -1,9 +1,9 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Dimas+Yusuf+Qurohman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Moh+Eka+Bayu+Ainul+Hakim" alt="Typing SVG" />
 </h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dimmasyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="dimmasyusuf" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dimmasyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="bayueka92" /> </p>
 
 <img align="right" src="https://i.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.webp" width="400" alt="github-cover">
 
