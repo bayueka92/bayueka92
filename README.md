@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/368609/codepen.svg" alt="codepen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bayu-eka-819a151b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <a href='https://ko-fi.com/bayueka92' target='_blank'><img align="center" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
